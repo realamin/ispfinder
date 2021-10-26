@@ -19,7 +19,7 @@ Goto [this](https://github.com/realamin/ispfinder/exe_dist) and download all fil
 Then goto "dist" directory and run "ispfinder.exe".
 
 #### 2. Python source file (.py) :
-Goto [this](https://github.com/realamin/ispfinder/py_dist) and download the "ispfinder.py" file.
+Goto [this](https://github.com/realamin/ispfinder/blob/py_dist/ip.py) and download the "ip.py" file.
 Then open command prompt (CMD) and enter this :
 ```bash
 pip install requests
